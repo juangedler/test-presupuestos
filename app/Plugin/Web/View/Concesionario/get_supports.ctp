@@ -1,0 +1,1 @@
+<?php echo $this->element('list_supports_element', array('supports' => $supports, 'isDealership' => 1));?>

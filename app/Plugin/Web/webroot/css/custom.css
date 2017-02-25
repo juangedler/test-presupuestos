@@ -1,0 +1,18 @@
+.complete-input{
+	width: 100%
+}
+
+.special-a{
+	color: #3498db;   
+    cursor: pointer;
+}
+
+#internalMessageText,
+#internalMessageSupportText{
+	color: #ef0d32;
+	font-weight: bold;
+	/*visibility: hidden;*/
+	display: none;
+}
+
+

@@ -1,0 +1,5 @@
+app/tmp/models/*
+app/tmp/persistent/*
+app/tmp/logs/*
+app/webroot/dumps
+Vendor/*
