@@ -36,3 +36,5 @@ app/webroot/img
 app/webroot/css
 app/webroot/js
 app/Test
+app/Plugin/Cms/webroot/vendor/tests
+app/Plugin/Cms/webroot/vendor
